@@ -1,0 +1,4 @@
+[14-May-2022 13:50:22 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/alphqtgg/course.investing24.io/send.php on line 11
+[17-May-2022 06:10:05 America/New_York] PHP Notice:  Undefined index: country1 in /home/alphqtgg/course.investing24.io/send.php on line 27
+[18-May-2022 06:09:54 America/New_York] PHP Notice:  Undefined index: country1 in /home/alphqtgg/course.investing24.io/send.php on line 27
+[18-May-2022 06:09:54 America/New_York] PHP Notice:  Undefined index: zip1 in /home/alphqtgg/course.investing24.io/send.php on line 27
